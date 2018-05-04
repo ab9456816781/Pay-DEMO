@@ -1,8 +1,0 @@
-public class foot2{
-	
-	public static void main(String[] ares){
-		System.out.print();
-	} 
-
-
-}
